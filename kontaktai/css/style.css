@@ -1,0 +1,87 @@
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111;
+    opacity: 0.7;
+    z-index: 9999;
+}
+
+li {
+    float: right;
+    font: 400 20px/1.2 'Merienda One', Helvetica, sans-serif;
+    color: rgba(0,0,0,0.7);
+    text-shadow: 1px 1px 1px #fff;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  #me {
+    float: left;
+  }
+
+li a:hover {
+    background-color: #000;
+}
+  h1 {
+    text-align: center;
+    color: white;
+  }
+  h3 {
+    text-align: left;
+    text-indent: 4%;
+    color: white;
+  }
+  body {
+    background-image: url('http://i.imgur.com/Q5arH.gif');
+    width: 100%;
+    background-color: black;
+    max-width: 1920px 500px;
+    background-size: 1920px 500px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center top;
+  }
+#img {
+    margin-right: 10%;
+}
+#MyImg {
+  border-radius: 90px;
+  width: 800%;
+  max-width: 175px;
+
+}
+#kontaktai-txt {
+  margin-left: 5%;
+}
+#top-bar {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+}
+p {
+  color: white;
+}
+.btn {
+   background-color: #0f0f0f;
+   color: white;
+}
+.btn:hover {
+  background-color: #333333;
+  color: white;
+}
+.col-md-1 {
+  padding: 0 5% 0 5%;
+  text-align: center;
+}
+
+#© {
+  text-align: center;
+}

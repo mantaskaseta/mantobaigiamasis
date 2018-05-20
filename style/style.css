@@ -1,0 +1,80 @@
+body{
+	background-image: url(../img/bg.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	width: 1400px;
+}
+a{text-decoration: none;
+
+}
+
+
+.pavadinimas{
+	font-size: 25px;
+	 right: -95;
+	color: red;
+	font-weight: bold;
+	text-align: center;
+}
+
+table{
+	width: 800px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	}
+
+.linkas{
+	text-align: center;
+}
+
+.tagas:link, .tagas:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+
+
+.skyriai{
+	text-align: center;
+	background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    margin-right: auto;
+	margin-left: auto;
+
+}
+
+}
+td{
+	color:white;
+	text-decoration: bold;
+	font-size: 15px;
+}
+
+.foto{
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
+.navi{
+	display: block;
+	margin-right: auto;
+	margin-left: 110px; 
+}
+iframe{
+	width: 1000px;
+	height: 600px;
+	background-image: url('../img/bg.png');
+	display: block;
+	margin-right: auto;
+	margin-left: auto; 
+}
